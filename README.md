@@ -1,3 +1,9 @@
+# Amedia Fork
+
+This temporary fork exists to fix a bug in Kafka Streams.  
+See this Jira issue for more details: https://issues.apache.org/jira/browse/KAFKA-10417
+
+
 Apache Kafka
 =================
 See our [web site](https://kafka.apache.org) for details on the project.
